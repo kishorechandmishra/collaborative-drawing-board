@@ -16,16 +16,4 @@ A real-time collaborative drawing board that allows multiple users to draw on th
    ```bash
    git clone https://github.com/kishorechandmishra/collaborative-drawing-board.git
 
-Navigate to the project folder:
-bash
-Copy code
-cd collaborative-drawing-board
-Install the necessary packages:
-bash
-Copy code
-npm install
-Start the server:
-bash
-Copy code
-node server.js
-Open your web browser and go to http://localhost:3000 to start drawing!
+
