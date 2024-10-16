@@ -1,6 +1,8 @@
 const canvas = document.getElementById('drawingCanvas');
 const ctx = canvas.getContext('2d');
-const socket = io();
+//const socket = io();
+const socket = io('/api/drawing');
+
 
 // Set canvas dimensions
 canvas.width = canvas.clientWidth;
